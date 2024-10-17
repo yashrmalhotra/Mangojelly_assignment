@@ -10,7 +10,7 @@
 |     GET      |      /      |                  Get all books                   |
 |     GET      | /searchbook |             Details of searched book             |
 |     GET      | /pagination | provide sorted and filtered data with pagination |
-|     POST     |  /addbook   |                   create book                    |
+|     POST     |  /addbook   |              create and store book in mongodb    |
 |     PUT      | /updatebook |       update book by its mongodb object id       |
 |    DELETE    | /deletebook |     deletebook book by its mongodb object id     |
 
